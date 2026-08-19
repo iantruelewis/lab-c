@@ -1,2 +1,2 @@
 # lab-c
-Repository for ongoing experiments in C.
+repository for ongoing experiments in c
